@@ -1,4 +1,5 @@
 # microblog-app
+<<<<<<< HEAD
 
 > App microblog using Adonisjs and Vue.js
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+App microblog using Adonisjs and Vue.js
+>>>>>>> 8ac6ad8442621d73172a484dacc14b1d8631f4d5
